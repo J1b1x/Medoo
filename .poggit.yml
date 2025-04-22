@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/J1b1x/Medoo
+build-by-default: true
+branches:
+- master
+projects:
+  Medoo:
+    path: ""
+    model: virion
+    type: library
+...
